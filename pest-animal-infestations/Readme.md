@@ -12,3 +12,16 @@ This folder contains all datasets that describe pest and animal infestations aro
 _ in portuguese _
 
 • Febre/gripe suína • Antraz • Raiva/Lissavírus de morcego australiano • Gripe aviária • Pragas e doenças das abelhas • Vaca loca • Peste/Febre/Cólera suína clássica (PSC) • Leucose bovina enzoótica (EBL) • Influenza equina • Febre aftosa • Vírus de Hendra • Doença infecciosa da bolsa • Doença de Johne/Paratuberculose • Doença de Newcastle (ND) ou Pseudo peste aviária • Raiva • Berne • Surra/Mal das cadeiras
+
+
+
+
+_________________________________________________________________________________________________________________________________
+
+# Worst pests
+
+• Swine fever • Antraz • Avian influenza • Foot-and-mouth disease
+
+# Worst animal infestations
+
+• Bat • Bee • Mosquito • Locust • Rat
