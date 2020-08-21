@@ -62,3 +62,12 @@ https://www.who.int/influenza/human_animal_interface/H5N1_cumulative_table_archi
 
 ## NSTI National Population and Health Science Data Sharing Platform | HFMD Hand-Foot-Mouth-Disease in China
 http://www.phsciencedata.cn/Share/en/data.jsp?id=7bc98102-60b4-4e08-9e24-48de67083498&show=0
+
+
+
+
+_________________________________________________________________________________________________________________________________
+
+# Animals
+
+## BLA BLA BLA
