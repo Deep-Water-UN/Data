@@ -64,7 +64,7 @@ ________________________________________________________________________________
 
 
 ## Feliphe
-•	Weather (In Progress)
+•	Weather (Done) - Source: https://openweathermap.org/
 
 •	Cloud (In Progress)
 
