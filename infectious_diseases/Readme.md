@@ -41,3 +41,11 @@ https://www.who.int/csr/don/en/
 
 This is the page where WHO posts news when there is an outbreak in anyplace in the world
 ____________________________________________________________________________________________________________________________
+
+[7] GITHUB Open Source Projects | Open Datasets
+
+https://github.com/XuelongSun/Dynamic-Model-of-Infectious-Diseases
+https://github.com/Emergent-Epidemics/infectious_disease_predictability
+https://github.com/zeroday0619/COVID-19API
+https://github.com/IbrahimSobh/kaggle-COVID19-Classification
+____________________________________________________________________________________________________________________________
