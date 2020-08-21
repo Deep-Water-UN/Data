@@ -5,6 +5,8 @@ There are 4 categories in which the score will be applied, creating a perspectiv
 
 
 
+_________________________________________________________________________________________________________________________________
+
 # 1. Risks to Ships Datasets
 •	Satellite imagery
 •	Weather / Cloud
@@ -45,3 +47,63 @@ There are 4 categories in which the score will be applied, creating a perspectiv
 •	Plagues
 •	Animal infestation
 •	Maintenance / Age of equipments
+
+
+
+
+_________________________________________________________________________________________________________________________________
+
+# Owners per Data source
+
+## Debora
+•	Satellite Imagery (In Progress)
+
+•	Telecommunication (In Progress)
+
+
+
+
+## Feliphe
+•	Weather (In Progress)
+
+•	Cloud (In Progress)
+
+•	CO2 (In Progress)
+
+
+
+
+## Gustavo
+•	Drug Consumption (In Progress)
+
+•	Prostitution (In Progress)
+
+•	Human Trafficking (In Progress)
+
+•	Ship Itinerary (In Progress)
+
+•	Ship Incidents (In Progress)
+
+•	Ship Maintenance (In Progress)
+
+•	Age of Equipments (In Progress)
+
+
+
+
+## Rodrigo
+•	Mental Disease (In Progress)
+
+•	Wearables (In Progress)
+
+•	Social Media / Network (In Progress)
+
+
+
+
+## Roma
+•	Infectious Diseases (Done)
+
+•	Pests (Done)
+
+•	Animals Infestation (In Progress)
