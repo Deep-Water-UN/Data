@@ -75,6 +75,7 @@ ________________________________________________________________________________
 
 ## Gustavo
 •	Drug Consumption (Done)
+
 Prevalence of drug use - general population
 https://dataunodc.un.org/data/drugs/Prevalence-general
 
@@ -91,9 +92,11 @@ An Analysis of Drug Consumption Risk
 https://rstudio-pubs-static.s3.amazonaws.com/337290_80183ace335c4d8bb99769a4363c190c.html
 
 •	Prostitution (Done)
+
 https://dataunodc.un.org/data/crime/sexual-exploitation
 
 •	Human Trafficking (Done)
+
 https://migrationdataportal.org/themes/human-trafficking
 
 https://dataunodc.un.org/data/TIP/Detected%20trafficking%20victims
@@ -104,6 +107,7 @@ https://dataunodc.un.org/data/TIP/People%20convicted%20of%20trafficking%20in%20p
 
 
 •	Ship Itinerary (Done)
+
 https://towardsdatascience.com/creating-sea-routes-from-the-sea-of-ais-data-30bc68d8530e
 
 https://ieee-dataport.org/open-access/vessel-tracking-ais-vessel-metadata-and-dirway-datasets#files
@@ -112,10 +116,12 @@ https://www.marinetraffic.com/research/open-research-maritime-vessel-tracking-da
 
 
 •	Ship Incidents (Done)
+
 https://catalog.data.gov/dataset/accident-statistics
 
 
 •	Ship Maintenance (Done)
+
 https://www.seanoe.org/data/00348/45934/
 
 
