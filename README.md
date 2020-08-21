@@ -74,17 +74,50 @@ ________________________________________________________________________________
 
 
 ## Gustavo
-•	Drug Consumption (In Progress)
+•	Drug Consumption (Done)
+Prevalence of drug use - general population
+https://dataunodc.un.org/data/drugs/Prevalence-general
 
-•	Prostitution (In Progress)
+People Injucting drugs
+https://dataunodc.un.org/data/drugs/People%20Injucting%20drugs
 
-•	Human Trafficking (In Progress)
+Drug Use -  2016
+https://ourworldindata.org/drug-use
 
-•	Ship Itinerary (In Progress)
+Smoking - 2016
+https://ourworldindata.org/smoking
 
-•	Ship Incidents (In Progress)
+An Analysis of Drug Consumption Risk
+https://rstudio-pubs-static.s3.amazonaws.com/337290_80183ace335c4d8bb99769a4363c190c.html
 
-•	Ship Maintenance (In Progress)
+•	Prostitution (Done)
+https://dataunodc.un.org/data/crime/sexual-exploitation
+
+•	Human Trafficking (Done)
+https://migrationdataportal.org/themes/human-trafficking
+
+https://dataunodc.un.org/data/TIP/Detected%20trafficking%20victims
+
+https://dataunodc.un.org/data/TIP/Detected%20victims%20by%20citizenship
+
+https://dataunodc.un.org/data/TIP/People%20convicted%20of%20trafficking%20in%20persons
+
+
+•	Ship Itinerary (Done)
+https://towardsdatascience.com/creating-sea-routes-from-the-sea-of-ais-data-30bc68d8530e
+
+https://ieee-dataport.org/open-access/vessel-tracking-ais-vessel-metadata-and-dirway-datasets#files
+
+https://www.marinetraffic.com/research/open-research-maritime-vessel-tracking-dataset/
+
+
+•	Ship Incidents (Done)
+https://catalog.data.gov/dataset/accident-statistics
+
+
+•	Ship Maintenance (Done)
+https://www.seanoe.org/data/00348/45934/
+
 
 •	Age of Equipments (In Progress)
 
