@@ -132,8 +132,12 @@ https://www.seanoe.org/data/00348/45934/
 
 ## Rodrigo
 •	Mental Disease (In Progress)
+Mental Health Atlas - https://www.who.int/mental_health/evidence/atlas/mental_health_atlas_2017/en/
+Non-Communication Diseased - http://gamapserver.who.int/gho/interactive_charts/ncd/mortality/total/atlas.html
+Suicidal Rates - https://www.who.int/mental_health/prevention/suicide/suicideprevent/en/
 
 •	Wearables (In Progress)
+N/A
 
 •	Social Media / Network (In Progress)
 
