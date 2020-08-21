@@ -68,7 +68,7 @@ ________________________________________________________________________________
 
 •	Cloud (In Progress)
 
-•	CO2 (In Progress)
+•	CO2 (Done) - Source: https://github.com/owid/co2-data
 
 
 
