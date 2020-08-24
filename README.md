@@ -4,7 +4,10 @@ There are 4 categories in which the score will be applied, creating a perspectiv
 
 
 
+_________________________________________________________________________________________________________________________________
 
+# General Data Source
+https://github.com/awesomedata/awesome-public-datasets
 _________________________________________________________________________________________________________________________________
 
 # 1. Risks to Ships Datasets
