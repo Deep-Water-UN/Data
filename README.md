@@ -62,7 +62,16 @@ ________________________________________________________________________________
 # Owners per Data source
 
 ## Debora
-•	Satellite Imagery (In Progress)
+•	Satellite Imagery (Done)
+https://pypi.org/project/planet/
+
+https://imagery.geocento.com/#mapviewer:query=BuhPbP4qZ3BFwZpJ
+
+https://www.iceye.com/downloads/datasets
+
+https://earthdata.nasa.gov/learn/what-is-sar
+
+https://arset.gsfc.nasa.gov/webinars
 
 •	Telecommunication (In Progress)
 
