@@ -79,12 +79,23 @@ https://arset.gsfc.nasa.gov/webinars
 
 
 ## Feliphe
-•	Weather (Done) - Source: https://openweathermap.org/
+•	Weather (Done) - Source: 
+
+[GOOD PAID] https://openweathermap.org/
+
+[GOOD PAID] https://www.meteoblue.com/
 
 •	Cloud (In Progress)
 
-•	CO2 (Done) - Source: https://github.com/owid/co2-data
+•	CO2 (Done) - Source: 
+[GOOD] https://github.com/owid/co2-data
 
+•	Air Quality (Done) - Source: 
+[GOOD] https://aqicn.org/data-platform/register/fr/
+
+[BAD] https://waqi.info/
+
+[TODO] https://www.bodc.ac.uk/data
 
 
 
@@ -123,21 +134,21 @@ https://dataunodc.un.org/data/TIP/People%20convicted%20of%20trafficking%20in%20p
 
 •	Ship Itinerary (Done)
 
-https://towardsdatascience.com/creating-sea-routes-from-the-sea-of-ais-data-30bc68d8530e
+[HOWTO] https://towardsdatascience.com/creating-sea-routes-from-the-sea-of-ais-data-30bc68d8530e
 
-https://ieee-dataport.org/open-access/vessel-tracking-ais-vessel-metadata-and-dirway-datasets#files
+[HOWTO][GOOD] https://ieee-dataport.org/open-access/vessel-tracking-ais-vessel-metadata-and-dirway-datasets#files
 
-https://www.marinetraffic.com/research/open-research-maritime-vessel-tracking-dataset/
+[GOOD] https://www.marinetraffic.com/research/open-research-maritime-vessel-tracking-dataset/
 
 
 •	Ship Incidents (Done)
 
-https://catalog.data.gov/dataset/accident-statistics
+[LIXO] https://catalog.data.gov/dataset/accident-statistics
 
 
 •	Ship Maintenance (Done)
 
-https://www.seanoe.org/data/00348/45934/
+[BAD] https://www.seanoe.org/data/00348/45934/
 
 
 •	Age of Equipments (In Progress)
