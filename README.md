@@ -97,6 +97,7 @@ https://arset.gsfc.nasa.gov/webinars
 
 [TODO] https://www.bodc.ac.uk/data
 
+[GOOD] https://archive.ics.uci.edu/ml/datasets/Beijing+Multi-Site+Air-Quality+Data
 
 
 ## Gustavo
