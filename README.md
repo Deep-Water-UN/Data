@@ -67,7 +67,9 @@ ________________________________________________________________________________
 
 ## Debora
 •	Satellite Imagery (Done)
-https://pypi.org/project/planet/
+
+[GOOD] https://pypi.org/project/planet/
+https://medium.com/planet-stories/demystifying-planets-command-line-tool-660870b32317
 
 https://imagery.geocento.com/#mapviewer:query=BuhPbP4qZ3BFwZpJ
 
