@@ -71,13 +71,17 @@ ________________________________________________________________________________
 [GOOD] https://pypi.org/project/planet/
 https://medium.com/planet-stories/demystifying-planets-command-line-tool-660870b32317
 
-https://imagery.geocento.com/#mapviewer:query=BuhPbP4qZ3BFwZpJ
+[GOOD PAID] https://imagery.geocento.com/#mapviewer:query=BuhPbP4qZ3BFwZpJ
 
 https://www.iceye.com/downloads/datasets
 
 https://earthdata.nasa.gov/learn/what-is-sar
 
 https://arset.gsfc.nasa.gov/webinars
+
+[GOOD PAID] https://www.google.com/earth/
+
+[HOWTO] https://www.sciencedirect.com/science/article/pii/S2214241X15002060
 
 •	Telecommunication (In Progress)
 
