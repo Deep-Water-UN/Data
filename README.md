@@ -185,3 +185,8 @@ N/A
 •	Pests (Done)
 
 •	Animals Infestation (In Progress)
+
+
+## Supporting Material for Mortality from Ship Emissions: A Global Assessment
+
+https://pubs.acs.org/doi/suppl/10.1021/es071686z/suppl_file/es071686z-file002.pdf
