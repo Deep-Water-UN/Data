@@ -7,9 +7,13 @@ There are 4 categories in which the score will be applied, creating a perspectiv
 _________________________________________________________________________________________________________________________________
 
 # General Data Source
+
 [BAD] https://github.com/awesomedata/awesome-public-datasets
+
 [BAD] https://medium.com/@ODSC/25-excellent-machine-learning-open-datasets-940ca2124dfc
+
 [BAD] https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f
+
 [BAD] https://analyticsindiamag.com/arxiv-makes-all-its-research-papers-available-on-kaggle-to-boost-machine-learning-developments/
 _________________________________________________________________________________________________________________________________
 
