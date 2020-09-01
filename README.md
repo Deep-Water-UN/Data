@@ -164,6 +164,27 @@ https://dataunodc.un.org/data/TIP/People%20convicted%20of%20trafficking%20in%20p
 
 •	Age of Equipments (In Progress)
 
+•	Marine pollution Safety Queensland  (Done)
+
+https://www.data.qld.gov.au/dataset/marine-oil-spills-data/resource/6d5865f0-b7fc-4770-a303-a0b1f85f661f
+
+
+•	GIS Datasets
+
+http://www.maritimemaps.co.uk/Datasets/datasets.html
+
+
+https://theicct.org/sites/default/files/publications/Global-shipping-GHG-emissions-2013-2015_ICCT-Report_17102017_vF.pdf
+
+https://data.noaa.gov/dataset/dataset/marine-pollution-prevention-act1
+
+
+https://marinecadastre.gov/data/
+
+
+https://catalog.data.gov/dataset/marine-toxic-substances-and-pollutants-data-collected-using-sediment-corer-and-other-instrument
+
+
 
 
 
